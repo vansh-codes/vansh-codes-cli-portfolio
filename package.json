@@ -1,5 +1,5 @@
 {
-  "name": "vansh-codes-portfolio",
+  "name": "@vansh-codes/vansh-codes-portfolio",
   "version": "1.0.1",
   "main": "index.js",
   "bin": {
@@ -29,5 +29,16 @@
     "open": "^10.1.0",
     "ora": "^8.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vansh-codes/vansh-codes-cli-portfolio"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/vansh-codes/vansh-codes-cli-portfolio/issues"
+  },
+  "homepage": "https://github.com/vansh-codes/vansh-codes-cli-portfolio/#readme"
 }
