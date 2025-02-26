@@ -1,0 +1,33 @@
+{
+  "name": "vansh-codes-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "vansh-cli": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "cli-portfolio",
+    "portfolio",
+    "Vansh Chaurasiya"
+  ],
+  "author": "Vansh Chaurasiya",
+  "license": "ISC",
+  "type": "module",
+  "description": "Awesome CLI portfolio of Vansh Chaurasiya",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "clear": "^0.1.0",
+    "commander": "^13.1.0",
+    "figlet": "^1.8.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.4.2",
+    "open": "^10.1.0",
+    "ora": "^8.2.0"
+  },
+  "devDependencies": {}
+}
