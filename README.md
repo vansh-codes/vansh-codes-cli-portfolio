@@ -21,8 +21,27 @@
 To install the CLI globally, run:
 
 ```sh
-npm i vansh-codes-portfolio
+npm install vansh-codes-portfolio
 ```
+or
+```sh
+npm install @vansh-codes/vansh-codes-portfolio@1.0.1
+```
+
+---
+
+## 📦 Run directly in terminal
+
+To install the CLI globally, run:
+
+```sh
+npx @vansh-codes/vansh-codes-portfolio
+```
+or
+```sh
+npm install @vansh-codes/vansh-codes-portfolio@1.0.1
+```
+
 
 ---
 

@@ -32,7 +32,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vansh-codes/vansh-codes-cli-portfolio"
+    "url": "git+https://github.com/vansh-codes/vansh-codes-cli-portfolio.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
